@@ -145,3 +145,6 @@ button:hover{
 h2{
     display: none;
 }
+#body{
+    background-color: black;
+}
